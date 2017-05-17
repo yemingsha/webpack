@@ -1,0 +1,2422 @@
+
+[
+    {
+    "typeName": "化学原料",
+    "typeID": "01",
+    "littleCategory": [
+    {
+    "typeName": "工业气体",
+    "typeID": "0101"
+   ,"check":false},
+    {
+    "typeName": "化工原料",
+    "typeID": "0102"
+   ,"check":false},
+    {
+    "typeName": "放射性化学品",
+    "typeID": "0103"
+   ,"check":false},
+    {
+    "typeName": "工科业化学品",
+    "typeID": "0104"
+   ,"check":false},
+    {
+    "typeName": "农林园业化学品",
+    "typeID": "0105"
+   ,"check":false},
+    {
+    "typeName": "化学试剂",
+    "typeID": "0106"
+   ,"check":false},
+    {
+    "typeName": "摄影用化学品",
+    "typeID": "0107"
+   ,"check":false},
+    {
+    "typeName": "人造合成树脂和塑料",
+    "typeID": "0108"
+   ,"check":false},
+    {
+    "typeName": "肥料",
+    "typeID": "0109"
+   ,"check":false},
+    {
+    "typeName": "灭防火合成物",
+    "typeID": "0110"
+   ,"check":false},
+    {
+    "typeName": "淬火用化学制剂",
+    "typeID": "0111"
+   ,"check":false},
+    {
+    "typeName": "焊接用化学制剂",
+    "typeID": "0112"
+   ,"check":false},
+    {
+    "typeName": "食药用化学品",
+    "typeID": "0113"
+   ,"check":false},
+    {
+    "typeName": "鞣料及皮革用化学品",
+    "typeID": "0114"
+   ,"check":false},
+    {
+    "typeName": "工业用粘合剂和胶",
+    "typeID": "0115"
+   ,"check":false},
+    {
+    "typeName": "纸浆",
+    "typeID": "0116"
+   ,"check":false},
+    {
+    "typeName": "能源",
+    "typeID": "0117"
+   ,"check":false}
+    ]
+
+
+
+    },
+
+
+
+    {
+    "typeName": "颜料油漆",
+    "typeID": "02",
+    "littleCategory": [
+    {
+    "typeName": "染料，媒染剂",
+    "typeID": "0201"
+   ,"check":false},
+    {
+    "typeName": "颜料",
+    "typeID": "0202"
+   ,"check":false},
+    {
+    "typeName": "食品着色剂",
+    "typeID": "0203"
+   ,"check":false},
+    {
+    "typeName": "油墨",
+    "typeID": "0204"
+   ,"check":false},
+    {
+    "typeName": "涂料，油漆及附料",
+    "typeID": "0205"
+   ,"check":false},
+    {
+    "typeName": "天然树脂",
+    "typeID": "0206"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "日化用品",
+    "typeID": "03",
+    "littleCategory": [
+    {
+    "typeName": "洗洁物品",
+    "typeID": "0301"
+   ,"check":false},
+    {
+    "typeName": "清洁制剂",
+    "typeID": "0302"
+   ,"check":false},
+    {
+    "typeName": "抛光制剂",
+    "typeID": "0303"
+   ,"check":false},
+    {
+    "typeName": "研磨用材料",
+    "typeID": "0304"
+   ,"check":false},
+    {
+    "typeName": "香料，香精油",
+    "typeID": "0305"
+   ,"check":false},
+    {
+    "typeName": "化妆品",
+    "typeID": "0306"
+   ,"check":false},
+    {
+    "typeName": "牙用制剂",
+    "typeID": "0307"
+   ,"check":false},
+    {
+    "typeName": "熏料",
+    "typeID": "0308"
+   ,"check":false},
+    {
+    "typeName": "动物用化妆品",
+    "typeID": "0309"
+   ,"check":false},
+    {
+    "typeName": "室内芳香剂",
+    "typeID": "0310"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "燃料油脂",
+    "typeID": "04",
+    "littleCategory": [
+    {
+    "typeName": "工业用油",
+    "typeID": "0401"
+   ,"check":false},
+    {
+    "typeName": "气、液燃料",
+    "typeID": "0402"
+   ,"check":false},
+    {
+    "typeName": "固体燃料",
+    "typeID": "0403"
+   ,"check":false},
+    {
+    "typeName": "工业用蜡",
+    "typeID": "0404"
+   ,"check":false},
+    {
+    "typeName": "照明用蜡",
+    "typeID": "0405"
+   ,"check":false},
+    {
+    "typeName": "吸灰用合成物",
+    "typeID": "0406"
+   ,"check":false},
+    {
+    "typeName": "能源",
+    "typeID": "0407"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "医用医药",
+    "typeID": "05",
+    "littleCategory": [
+    {
+    "typeName": "药品",
+    "typeID": "0501"
+   ,"check":false},
+    {
+    "typeName": "营养品",
+    "typeID": "0502"
+   ,"check":false},
+    {
+    "typeName": "净化制剂",
+    "typeID": "0503"
+   ,"check":false},
+    {
+    "typeName": "兽药",
+    "typeID": "0504"
+   ,"check":false},
+    {
+    "typeName": "杀虫剂",
+    "typeID": "0505"
+   ,"check":false},
+    {
+    "typeName": "卫生用品",
+    "typeID": "0506"
+   ,"check":false},
+    {
+    "typeName": "牙科用料",
+    "typeID": "0507"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "0508"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "金属材料",
+    "typeID": "06",
+    "littleCategory": [
+    {
+    "typeName": "普通金属及其合金",
+    "typeID": "0601"
+   ,"check":false},
+    {
+    "typeName": "普通金属管及其配件",
+    "typeID": "0602"
+   ,"check":false},
+    {
+    "typeName": "金属建筑材料",
+    "typeID": "0603"
+   ,"check":false},
+    {
+    "typeName": "铁路用金属材料",
+    "typeID": "0604"
+   ,"check":false},
+    {
+    "typeName": "非电气用缆索和金属线",
+    "typeID": "0605"
+   ,"check":false},
+    {
+    "typeName": "缆绳用非电气金属附件",
+    "typeID": "0606"
+   ,"check":false},
+    {
+    "typeName": "钉及标准紧固件",
+    "typeID": "0607"
+   ,"check":false},
+    {
+    "typeName": "家具及门窗的金属附件",
+    "typeID": "0608"
+   ,"check":false},
+    {
+    "typeName": "日用五金器具",
+    "typeID": "0609"
+   ,"check":false},
+    {
+    "typeName": "非电子锁",
+    "typeID": "0610"
+   ,"check":false},
+    {
+    "typeName": "保险箱柜",
+    "typeID": "0611"
+   ,"check":false},
+    {
+    "typeName": "金属器具",
+    "typeID": "0612"
+   ,"check":false},
+    {
+    "typeName": "金属容器",
+    "typeID": "0613"
+   ,"check":false},
+    {
+    "typeName": "金属标牌",
+    "typeID": "0614"
+   ,"check":false},
+    {
+    "typeName": "动物用金属制品",
+    "typeID": "0615"
+   ,"check":false},
+    {
+    "typeName": "焊接用金属材料",
+    "typeID": "0616"
+   ,"check":false},
+    {
+    "typeName": "锚，浮动船坞",
+    "typeID": "0617"
+   ,"check":false},
+    {
+    "typeName": "手铐",
+    "typeID": "0618"
+   ,"check":false},
+    {
+    "typeName": "金属浆叶、风标",
+    "typeID": "0619"
+   ,"check":false},
+    {
+    "typeName": "金属植物保护器",
+    "typeID": "0620"
+   ,"check":false},
+    {
+    "typeName": "捕野兽陷阱",
+    "typeID": "0621"
+   ,"check":false},
+    {
+    "typeName": "普通金属艺术品",
+    "typeID": "0622"
+   ,"check":false},
+    {
+    "typeName": "矿石，矿砂",
+    "typeID": "0623"
+   ,"check":false},
+    {
+    "typeName": "金属棺",
+    "typeID": "0624"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "机械设备",
+    "typeID": "07",
+    "littleCategory": [
+    {
+    "typeName": "农业用机械",
+    "typeID": "0701"
+   ,"check":false},
+    {
+    "typeName": "渔牧业用机械",
+    "typeID": "0702"
+   ,"check":false},
+    {
+    "typeName": "木材加工及生产用机械",
+    "typeID": "0703"
+   ,"check":false},
+    {
+    "typeName": "纸制品工业用机械",
+    "typeID": "0704"
+   ,"check":false},
+    {
+    "typeName": "印刷工业用机械",
+    "typeID": "0705"
+   ,"check":false},
+    {
+    "typeName": "纺织、针织工业用机械",
+    "typeID": "0706"
+   ,"check":false},
+    {
+    "typeName": "印染工业用机械 ",
+    "typeID": "0707"
+   ,"check":false},
+    {
+    "typeName": "制茶工业用机械",
+    "typeID": "0708"
+   ,"check":false},
+    {
+    "typeName": "食品业用机械",
+    "typeID": "0709"
+   ,"check":false},
+    {
+    "typeName": "酿造工业用机械",
+    "typeID": "0710"
+   ,"check":false},
+    {
+    "typeName": "烟草工业用机械",
+    "typeID": "0711"
+   ,"check":false},
+    {
+    "typeName": "皮革工业用机械",
+    "typeID": "0712"
+   ,"check":false},
+    {
+    "typeName": "缝纫、制鞋工业用机械",
+    "typeID": "0713"
+   ,"check":false},
+    {
+    "typeName": "自行车工业用设备",
+    "typeID": "0714"
+   ,"check":false},
+    {
+    "typeName": "陶瓷、砖、瓦制造机械",
+    "typeID": "0715"
+   ,"check":false},
+    {
+    "typeName": "雕刻机",
+    "typeID": "0716"
+   ,"check":false},
+    {
+    "typeName": "制电池机械",
+    "typeID": "0717"
+   ,"check":false},
+    {
+    "typeName": "日用杂品加工机械",
+    "typeID": "0718"
+   ,"check":false},
+    {
+    "typeName": "制搪瓷机械",
+    "typeID": "0719"
+   ,"check":false},
+    {
+    "typeName": "制灯泡机械",
+    "typeID": "0720"
+   ,"check":false},
+    {
+    "typeName": "包装机械",
+    "typeID": "0721"
+   ,"check":false},
+    {
+    "typeName": "民用煤加工机械",
+    "typeID": "0722"
+   ,"check":false},
+    {
+    "typeName": "厨房家用器具",
+    "typeID": "0723"
+   ,"check":false},
+    {
+    "typeName": "洗衣机",
+    "typeID": "0724"
+   ,"check":false},
+    {
+    "typeName": "制药工业用机械",
+    "typeID": "0725"
+   ,"check":false},
+    {
+    "typeName": "橡胶、塑料工业机械",
+    "typeID": "0726"
+   ,"check":false},
+    {
+    "typeName": "玻璃工业用机械",
+    "typeID": "0727"
+   ,"check":false},
+    {
+    "typeName": "化肥设备",
+    "typeID": "0728"
+   ,"check":false},
+    {
+    "typeName": "其他化学工业用机械",
+    "typeID": "0729"
+   ,"check":false},
+    {
+    "typeName": "地质勘探用机械",
+    "typeID": "0730"
+   ,"check":false},
+    {
+    "typeName": "冶炼工业用设备",
+    "typeID": "0731"
+   ,"check":false},
+    {
+    "typeName": "石油开采、精炼用设备",
+    "typeID": "0732"
+   ,"check":false},
+    {
+    "typeName": "工程用机械",
+    "typeID": "0733"
+   ,"check":false},
+    {
+    "typeName": "起重运输机械",
+    "typeID": "0734"
+   ,"check":false},
+    {
+    "typeName": "锻压设备",
+    "typeID": "0735"
+   ,"check":false},
+    {
+    "typeName": "铸造机械",
+    "typeID": "0736"
+   ,"check":false},
+    {
+    "typeName": "蒸气动力设备",
+    "typeID": "0737"
+   ,"check":false},
+    {
+    "typeName": "内燃动力设备",
+    "typeID": "0738"
+   ,"check":false},
+    {
+    "typeName": "风力、水力动力设备",
+    "typeID": "0739"
+   ,"check":false},
+    {
+    "typeName": "制办公用针钉机械",
+    "typeID": "0740"
+   ,"check":false},
+    {
+    "typeName": "制钮扣拉链机械",
+    "typeID": "0741"
+   ,"check":false},
+    {
+    "typeName": "机床，金属加工机械",
+    "typeID": "0742"
+   ,"check":false},
+    {
+    "typeName": "非手动的手持工具",
+    "typeID": "0743"
+   ,"check":false},
+    {
+    "typeName": "静电、电子工业用设备",
+    "typeID": "0744"
+   ,"check":false},
+    {
+    "typeName": "光学工业用设备",
+    "typeID": "0745"
+   ,"check":false},
+    {
+    "typeName": "气体分离设备",
+    "typeID": "0746"
+   ,"check":false},
+    {
+    "typeName": "喷漆机具",
+    "typeID": "0747"
+   ,"check":false},
+    {
+    "typeName": "发电机、马达和引擎",
+    "typeID": "0748"
+   ,"check":false},
+    {
+    "typeName": "液压元件，气动元件",
+    "typeID": "0749"
+   ,"check":false},
+    {
+    "typeName": "传动用联轴节，传动带",
+    "typeID": "0750"
+   ,"check":false},
+    {
+    "typeName": "焊接机械",
+    "typeID": "0751"
+   ,"check":false},
+    {
+    "typeName": "清洁、废物处理机械 ",
+    "typeID": "0752"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "0753"
+   ,"check":false},
+    {
+    "typeName": "电镀设备",
+    "typeID": "0754"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "手动器械",
+    "typeID": "08",
+    "littleCategory": [
+    {
+    "typeName": "手动研磨器具",
+    "typeID": "0801"
+   ,"check":false},
+    {
+    "typeName": "小农具",
+    "typeID": "0802"
+   ,"check":false},
+    {
+    "typeName": "林业、园艺用手工具",
+    "typeID": "0803"
+   ,"check":false},
+    {
+    "typeName": "畜牧业用手工具",
+    "typeID": "0804"
+   ,"check":false},
+    {
+    "typeName": "渔业用手工具",
+    "typeID": "0805"
+   ,"check":false},
+    {
+    "typeName": "理发工具，修指甲刀",
+    "typeID": "0806"
+   ,"check":false},
+    {
+    "typeName": "非动力手工具",
+    "typeID": "0807"
+   ,"check":false},
+    {
+    "typeName": "非动力手工器具",
+    "typeID": "0808"
+   ,"check":false},
+    {
+    "typeName": "专业用手工具",
+    "typeID": "0809"
+   ,"check":false},
+    {
+    "typeName": "刀剪",
+    "typeID": "0810"
+   ,"check":false},
+    {
+    "typeName": "除火器外的随身武器",
+    "typeID": "0811"
+   ,"check":false},
+    {
+    "typeName": "餐具刀、叉、匙 ",
+    "typeID": "0812"
+   ,"check":false}
+    ]
+    },
+
+
+    {
+    "typeName": "科学仪器",
+    "typeID": "09",
+    "littleCategory": [
+    {
+    "typeName": "电子计算机",
+    "typeID": "0901"
+   ,"check":false},
+    {
+    "typeName": "记录、自动售货机",
+    "typeID": "0902"
+   ,"check":false},
+    {
+    "typeName": "其他办公用机械",
+    "typeID": "0903"
+   ,"check":false},
+    {
+    "typeName": "衡器",
+    "typeID": "0904"
+   ,"check":false},
+    {
+    "typeName": "量具",
+    "typeID": "0905"
+   ,"check":false},
+    {
+    "typeName": "信号器具",
+    "typeID": "0906"
+   ,"check":false},
+    {
+    "typeName": "通讯导航设备",
+    "typeID": "0907"
+   ,"check":false},
+    {
+    "typeName": "音像设备",
+    "typeID": "0908"
+   ,"check":false},
+    {
+    "typeName": "摄影、电影用具",
+    "typeID": "0909"
+   ,"check":false},
+    {
+    "typeName": "测量仪器，科学仪器",
+    "typeID": "0910"
+   ,"check":false},
+    {
+    "typeName": "光学仪器",
+    "typeID": "0911"
+   ,"check":false},
+    {
+    "typeName": "光电传输材料",
+    "typeID": "0912"
+   ,"check":false},
+    {
+    "typeName": "电器用晶体",
+    "typeID": "0913"
+   ,"check":false},
+    {
+    "typeName": "电器设备及控制装置",
+    "typeID": "0914"
+   ,"check":false},
+    {
+    "typeName": "电解装置",
+    "typeID": "0915"
+   ,"check":false},
+    {
+    "typeName": "灭火器具",
+    "typeID": "0916"
+   ,"check":false},
+    {
+    "typeName": "切割、焊接设备",
+    "typeID": "0917"
+   ,"check":false},
+    {
+    "typeName": "工业用X光机械设备",
+    "typeID": "0918"
+   ,"check":false},
+    {
+    "typeName": "安全救护器具",
+    "typeID": "0919"
+   ,"check":false},
+    {
+    "typeName": "警报装置，电铃",
+    "typeID": "0920"
+   ,"check":false},
+    {
+    "typeName": "眼镜及附件",
+    "typeID": "0921"
+   ,"check":false},
+    {
+    "typeName": "电池，充电器",
+    "typeID": "0922"
+   ,"check":false},
+    {
+    "typeName": "电影片，已曝光材料 ",
+    "typeID": "0923"
+   ,"check":false},
+    {
+    "typeName": "其他",
+    "typeID": "0924"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "医疗器械",
+    "typeID": "10",
+    "littleCategory": [
+    {
+    "typeName": "外科、医疗用设备",
+    "typeID": "1001"
+   ,"check":false},
+    {
+    "typeName": "牙科设备",
+    "typeID": "1002"
+   ,"check":false},
+    {
+    "typeName": "医疗用电、核子、电疗和X光设备 ",
+    "typeID": "1003"
+   ,"check":false},
+    {
+    "typeName": "医疗用辅助器具，设备",
+    "typeID": "1004"
+   ,"check":false},
+    {
+    "typeName": "奶嘴，奶瓶",
+    "typeID": "1005"
+   ,"check":false},
+    {
+    "typeName": "性用品",
+    "typeID": "1006"
+   ,"check":false},
+    {
+    "typeName": "假肢，假发和假器官",
+    "typeID": "1007"
+   ,"check":false},
+    {
+    "typeName": "矫形矫正用品",
+    "typeID": "1008"
+   ,"check":false},
+    {
+    "typeName": "缝合用材料",
+    "typeID": "1009"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "灯具空调",
+    "typeID": "11",
+    "littleCategory": [
+    {
+    "typeName": "照明用设备",
+    "typeID": "1101"
+   ,"check":false},
+    {
+    "typeName": "喷焊灯",
+    "typeID": "1102"
+   ,"check":false},
+    {
+    "typeName": "汽灯，油灯",
+    "typeID": "1103"
+   ,"check":false},
+    {
+    "typeName": "烹调及加热设备",
+    "typeID": "1104"
+   ,"check":false},
+    {
+    "typeName": "制冷、冷藏设备",
+    "typeID": "1105"
+   ,"check":false},
+    {
+    "typeName": "干燥、通风、空调设备",
+    "typeID": "1106"
+   ,"check":false},
+    {
+    "typeName": "加温、蒸汽设备",
+    "typeID": "1107"
+   ,"check":false},
+    {
+    "typeName": "水暖管件",
+    "typeID": "1108"
+   ,"check":false},
+    {
+    "typeName": "卫生设备",
+    "typeID": "1109"
+   ,"check":false},
+    {
+    "typeName": "消毒和净化设备",
+    "typeID": "1110"
+   ,"check":false},
+    {
+    "typeName": "小型取暖器",
+    "typeID": "1111"
+   ,"check":false},
+    {
+    "typeName": "不属于别类的打火器具",
+    "typeID": "1112"
+   ,"check":false},
+    {
+    "typeName": "核能反应设备",
+    "typeID": "1113"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "运载工具",
+    "typeID": "12",
+    "littleCategory": [
+    {
+    "typeName": "火车及其零部件",
+    "typeID": "1201"
+   ,"check":false},
+    {
+    "typeName": "汽车、电车",
+    "typeID": "1202"
+   ,"check":false},
+    {
+    "typeName": "摩托车其零部件",
+    "typeID": "1203"
+   ,"check":false},
+    {
+    "typeName": "自行车、三轮车",
+    "typeID": "1204"
+   ,"check":false},
+    {
+    "typeName": "缆车，架空运输设备",
+    "typeID": "1205"
+   ,"check":false},
+    {
+    "typeName": "轮椅，推车，童车",
+    "typeID": "1206"
+   ,"check":false},
+    {
+    "typeName": "畜力车辆",
+    "typeID": "1207"
+   ,"check":false},
+    {
+    "typeName": "轮胎及轮胎修理工具",
+    "typeID": "1208"
+   ,"check":false},
+    {
+    "typeName": "空用运载工具",
+    "typeID": "1209"
+   ,"check":false},
+    {
+    "typeName": "水用运载工具",
+    "typeID": "1210"
+   ,"check":false},
+    {
+    "typeName": "运载工具零部件",
+    "typeID": "1211"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "军火烟花",
+    "typeID": "13",
+    "littleCategory": [
+    {
+    "typeName": "火器及子弹",
+    "typeID": "1301"
+   ,"check":false},
+    {
+    "typeName": "爆炸物",
+    "typeID": "1302"
+   ,"check":false},
+    {
+    "typeName": "烟火，爆竹",
+    "typeID": "1303"
+   ,"check":false},
+    {
+    "typeName": "防护用喷雾",
+    "typeID": "1304"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "珠宝钟表",
+    "typeID": "14",
+    "littleCategory": [
+    {
+    "typeName": "贵重金属及其合金",
+    "typeID": "1401"
+   ,"check":false},
+    {
+    "typeName": "贵重金属盒",
+    "typeID": "1402"
+   ,"check":false},
+    {
+    "typeName": "珠宝及贵重金属制纪念品",
+    "typeID": "1403"
+   ,"check":false},
+    {
+    "typeName": "钟，表，计时器",
+    "typeID": "1404"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "乐器用品",
+    "typeID": "15",
+    "littleCategory": [
+    {
+    "typeName": "乐器",
+    "typeID": "1501"
+   ,"check":false},
+    {
+    "typeName": "乐器辅助用品",
+    "typeID": "1502"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "办公用品",
+    "typeID": "16",
+    "littleCategory": [
+    {
+    "typeName": "工业用纸",
+    "typeID": "1601"
+   ,"check":false},
+    {
+    "typeName": "技术用纸",
+    "typeID": "1602"
+   ,"check":false},
+    {
+    "typeName": "生活用纸",
+    "typeID": "1603"
+   ,"check":false},
+    {
+    "typeName": "纸板",
+    "typeID": "1604"
+   ,"check":false},
+    {
+    "typeName": "办公、日用纸制品",
+    "typeID": "1605"
+   ,"check":false},
+    {
+    "typeName": "印刷出版物",
+    "typeID": "1606"
+   ,"check":false},
+    {
+    "typeName": "照片，图片，图画",
+    "typeID": "1607"
+   ,"check":false},
+    {
+    "typeName": "纸牌，扑克牌",
+    "typeID": "1608"
+   ,"check":false},
+    {
+    "typeName": "纸及塑料包装物品",
+    "typeID": "1609"
+   ,"check":false},
+    {
+    "typeName": "装订、切削用具",
+    "typeID": "1610"
+   ,"check":false},
+    {
+    "typeName": "办公文具",
+    "typeID": "1611"
+   ,"check":false},
+    {
+    "typeName": "墨，砚",
+    "typeID": "1612"
+   ,"check":false},
+    {
+    "typeName": "印章，印油",
+    "typeID": "1613"
+   ,"check":false},
+    {
+    "typeName": "笔",
+    "typeID": "1614"
+   ,"check":false},
+    {
+    "typeName": "胶带或粘合剂",
+    "typeID": "1615"
+   ,"check":false},
+    {
+    "typeName": "绘图、绘画仪器",
+    "typeID": "1616"
+   ,"check":false},
+    {
+    "typeName": "绘画用具",
+    "typeID": "1617"
+   ,"check":false},
+    {
+    "typeName": "打字机、油印机",
+    "typeID": "1618"
+   ,"check":false},
+    {
+    "typeName": "教学用具",
+    "typeID": "1619"
+   ,"check":false},
+    {
+    "typeName": "室内模型物",
+    "typeID": "1620"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "1621"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "橡胶制品",
+    "typeID": "17",
+    "littleCategory": [
+    {
+    "typeName": "橡胶，古塔胶，树胶",
+    "typeID": "1701"
+   ,"check":false},
+    {
+    "typeName": "非金属密封减震制品",
+    "typeID": "1702"
+   ,"check":false},
+    {
+    "typeName": "橡胶，树脂，纤维制品",
+    "typeID": "1703"
+   ,"check":false},
+    {
+    "typeName": "软管",
+    "typeID": "1704"
+   ,"check":false},
+    {
+    "typeName": "保温、隔热、隔音材料",
+    "typeID": "1705"
+   ,"check":false},
+    {
+    "typeName": "绝缘用材料及其制品",
+    "typeID": "1706"
+   ,"check":false},
+    {
+    "typeName": "包装、填充用材料",
+    "typeID": "1707"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "1708"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "皮革皮具",
+    "typeID": "18",
+    "littleCategory": [
+    {
+    "typeName": "皮革",
+    "typeID": "1801"
+   ,"check":false},
+    {
+    "typeName": "日用革制品",
+    "typeID": "1802"
+   ,"check":false},
+    {
+    "typeName": "裘皮",
+    "typeID": "1803"
+   ,"check":false},
+    {
+    "typeName": "雨伞",
+    "typeID": "1804"
+   ,"check":false},
+    {
+    "typeName": "手杖",
+    "typeID": "1805"
+   ,"check":false},
+    {
+    "typeName": "动物用具",
+    "typeID": "1806"
+   ,"check":false},
+    {
+    "typeName": "肠衣",
+    "typeID": "1807"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "建筑材料",
+    "typeID": "19",
+    "littleCategory": [
+    {
+    "typeName": "半成品木材",
+    "typeID": "1901"
+   ,"check":false},
+    {
+    "typeName": "建筑用料",
+    "typeID": "1902"
+   ,"check":false},
+    {
+    "typeName": "石膏",
+    "typeID": "1903"
+   ,"check":false},
+    {
+    "typeName": "水泥",
+    "typeID": "1904"
+   ,"check":false},
+    {
+    "typeName": "水泥预制构件",
+    "typeID": "1905"
+   ,"check":false},
+    {
+    "typeName": "建筑砖瓦",
+    "typeID": "1906"
+   ,"check":false},
+    {
+    "typeName": "非金属耐火材料",
+    "typeID": "1907"
+   ,"check":false},
+    {
+    "typeName": "柏油，沥青",
+    "typeID": "1908"
+   ,"check":false},
+    {
+    "typeName": "非金属建筑材料",
+    "typeID": "1909"
+   ,"check":false},
+    {
+    "typeName": "非金属建筑物 ",
+    "typeID": "1910"
+   ,"check":false},
+    {
+    "typeName": "建筑用玻璃材料",
+    "typeID": "1911"
+   ,"check":false},
+    {
+    "typeName": "建筑用涂层",
+    "typeID": "1912"
+   ,"check":false},
+    {
+    "typeName": "建筑用粘合料",
+    "typeID": "1913"
+   ,"check":false},
+    {
+    "typeName": "非金属雕塑品",
+    "typeID": "1914"
+   ,"check":false},
+    {
+    "typeName": "棺椁墓碑",
+    "typeID": "1915"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "家具制品",
+    "typeID": "20",
+    "littleCategory": [
+    {
+    "typeName": "家具",
+    "typeID": "2001"
+   ,"check":false},
+    {
+    "typeName": "非金属容器",
+    "typeID": "2002"
+   ,"check":false},
+    {
+    "typeName": "工业、建筑配件",
+    "typeID": "2003"
+   ,"check":false},
+    {
+    "typeName": "镜子、画框 ",
+    "typeID": "2004"
+   ,"check":false},
+    {
+    "typeName": "竹、藤、棕、草制品",
+    "typeID": "2005"
+   ,"check":false},
+    {
+    "typeName": "骨、角、牙、介工艺品",
+    "typeID": "2006"
+   ,"check":false},
+    {
+    "typeName": "非金属牌照",
+    "typeID": "2007"
+   ,"check":false},
+    {
+    "typeName": "食品用塑料装饰品",
+    "typeID": "2008"
+   ,"check":false},
+    {
+    "typeName": "禽、畜等动物用制品",
+    "typeID": "2009"
+   ,"check":false},
+    {
+    "typeName": "非金属制身份鉴别手环",
+    "typeID": "2010"
+   ,"check":false},
+    {
+    "typeName": "非金属棺材",
+    "typeID": "2011"
+   ,"check":false},
+    {
+    "typeName": "非金属家具",
+    "typeID": "2012"
+   ,"check":false},
+    {
+    "typeName": "垫，枕",
+    "typeID": "2013"
+   ,"check":false},
+    {
+    "typeName": "非金属紧固件",
+    "typeID": "2014"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "厨房洁具",
+    "typeID": "21",
+    "littleCategory": [
+    {
+    "typeName": "厨房炊事用具",
+    "typeID": "2101"
+   ,"check":false},
+    {
+    "typeName": "玻璃器皿",
+    "typeID": "2102"
+   ,"check":false},
+    {
+    "typeName": "瓷器，陶器",
+    "typeID": "2103"
+   ,"check":false},
+    {
+    "typeName": "玻璃工艺品",
+    "typeID": "2104"
+   ,"check":false},
+    {
+    "typeName": "饮具",
+    "typeID": "2105"
+   ,"check":false},
+    {
+    "typeName": "日用及卫生器具",
+    "typeID": "2106"
+   ,"check":false},
+    {
+    "typeName": "梳子，刷子",
+    "typeID": "2107"
+   ,"check":false},
+    {
+    "typeName": "刷牙用具",
+    "typeID": "2108"
+   ,"check":false},
+    {
+    "typeName": "牙签",
+    "typeID": "2109"
+   ,"check":false},
+    {
+    "typeName": "化妆用具",
+    "typeID": "2110"
+   ,"check":false},
+    {
+    "typeName": "隔热用具",
+    "typeID": "2111"
+   ,"check":false},
+    {
+    "typeName": "家务用具",
+    "typeID": "2112"
+   ,"check":false},
+    {
+    "typeName": "未加工或半加工玻璃",
+    "typeID": "2113"
+   ,"check":false},
+    {
+    "typeName": "动植物器具",
+    "typeID": "2114"
+   ,"check":false},
+    {
+    "typeName": "灭虫、灭鼠用具",
+    "typeID": "2115"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "绳网袋篷",
+    "typeID": "22",
+    "littleCategory": [
+    {
+    "typeName": "缆，绳，线，带",
+    "typeID": "2201"
+   ,"check":false},
+    {
+    "typeName": "网，遮篷，帐篷，防水帆布，帆",
+    "typeID": "2202"
+   ,"check":false},
+    {
+    "typeName": "袋子，装卸、包装用物品",
+    "typeID": "2203"
+   ,"check":false},
+    {
+    "typeName": "衬垫，填充料，密封物品",
+    "typeID": "2204"
+   ,"check":false},
+    {
+    "typeName": "纤维原料",
+    "typeID": "2205"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "纱线丝品",
+    "typeID": "23",
+    "littleCategory": [
+    {
+    "typeName": "纺织用纱、丝",
+    "typeID": "2301"
+   ,"check":false},
+    {
+    "typeName": "线",
+    "typeID": "2302"
+   ,"check":false},
+    {
+    "typeName": "毛线",
+    "typeID": "2303"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "布料传单",
+    "typeID": "24",
+    "littleCategory": [
+    {
+    "typeName": "纺织品，布料",
+    "typeID": "2401"
+   ,"check":false},
+    {
+    "typeName": "特殊用织物",
+    "typeID": "2402"
+   ,"check":false},
+    {
+    "typeName": "纺织品壁挂",
+    "typeID": "2403"
+   ,"check":false},
+    {
+    "typeName": "毡及毡制品",
+    "typeID": "2404"
+   ,"check":false},
+    {
+    "typeName": "毛巾，浴巾，手帕",
+    "typeID": "2405"
+   ,"check":false},
+    {
+    "typeName": "床上用品",
+    "typeID": "2406"
+   ,"check":false},
+    {
+    "typeName": "室内遮盖物",
+    "typeID": "2407"
+   ,"check":false},
+    {
+    "typeName": "洗涤用手套",
+    "typeID": "2408"
+   ,"check":false},
+    {
+    "typeName": "特殊用布",
+    "typeID": "2409"
+   ,"check":false},
+    {
+    "typeName": "旗",
+    "typeID": "2410"
+   ,"check":false},
+    {
+    "typeName": "寿衣",
+    "typeID": "2411"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "服装鞋帽",
+    "typeID": "25",
+    "littleCategory": [
+    {
+    "typeName": "衣物",
+    "typeID": "2501"
+   ,"check":false},
+    {
+    "typeName": "婴儿纺织用品",
+    "typeID": "2502"
+   ,"check":false},
+    {
+    "typeName": "特种运动服装",
+    "typeID": "2503"
+   ,"check":false},
+    {
+    "typeName": "不透水服装",
+    "typeID": "2504"
+   ,"check":false},
+    {
+    "typeName": "戏装",
+    "typeID": "2505"
+   ,"check":false},
+    {
+    "typeName": "特殊用鞋",
+    "typeID": "2506"
+   ,"check":false},
+    {
+    "typeName": "鞋",
+    "typeID": "2507"
+   ,"check":false},
+    {
+    "typeName": "帽",
+    "typeID": "2508"
+   ,"check":false},
+    {
+    "typeName": "袜",
+    "typeID": "2509"
+   ,"check":false},
+    {
+    "typeName": "手套",
+    "typeID": "2510"
+   ,"check":false},
+    {
+    "typeName": "领带，围巾，披巾，面纱",
+    "typeID": "2511"
+   ,"check":false},
+    {
+    "typeName": "腰带，服装带",
+    "typeID": "2512"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "2513"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "纽扣拉链",
+    "typeID": "26",
+    "littleCategory": [
+    {
+    "typeName": "花边，饰品及编带",
+    "typeID": "2601"
+   ,"check":false},
+    {
+    "typeName": "服饰品，饰针",
+    "typeID": "2602"
+   ,"check":false},
+    {
+    "typeName": "钮扣，领钩扣，拉链",
+    "typeID": "2603"
+   ,"check":false},
+    {
+    "typeName": "假发，假胡须",
+    "typeID": "2604"
+   ,"check":false},
+    {
+    "typeName": "缝纫用具",
+    "typeID": "2605"
+   ,"check":false},
+    {
+    "typeName": "假花",
+    "typeID": "2606"
+   ,"check":false},
+    {
+    "typeName": "硬托衬骨",
+    "typeID": "2607"
+   ,"check":false},
+    {
+    "typeName": "修补纺织品用热粘胶片",
+    "typeID": "2608"
+   ,"check":false},
+    {
+    "typeName": "亚麻布标记用品",
+    "typeID": "2609"
+   ,"check":false},
+    {
+    "typeName": "茶壶保暖套",
+    "typeID": "2610"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "地毯席垫",
+    "typeID": "27",
+    "littleCategory": [
+    {
+    "typeName": "地毯",
+    "typeID": "2701"
+   ,"check":false},
+    {
+    "typeName": "席类",
+    "typeID": "2702"
+   ,"check":false},
+    {
+    "typeName": "垫及铺地板用品",
+    "typeID": "2703"
+   ,"check":false},
+    {
+    "typeName": "墙纸及非纺织挂毯",
+    "typeID": "2704"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "健身器材",
+    "typeID": "28",
+    "littleCategory": [
+    {
+    "typeName": "娱乐器械、物品",
+    "typeID": "2801"
+   ,"check":false},
+    {
+    "typeName": "玩具",
+    "typeID": "2802"
+   ,"check":false},
+    {
+    "typeName": "棋，牌",
+    "typeID": "2803"
+   ,"check":false},
+    {
+    "typeName": "球类",
+    "typeID": "2804"
+   ,"check":false},
+    {
+    "typeName": "健身器材",
+    "typeID": "2805"
+   ,"check":false},
+    {
+    "typeName": "射箭运动器材",
+    "typeID": "2806"
+   ,"check":false},
+    {
+    "typeName": "体操、举重、田径、冰雪运动器材",
+    "typeID": "2807"
+   ,"check":false},
+    {
+    "typeName": "游泳池及跑道",
+    "typeID": "2808"
+   ,"check":false},
+    {
+    "typeName": "运动防护器具及冰鞋",
+    "typeID": "2809"
+   ,"check":false},
+    {
+    "typeName": "圣诞树用的装饰品",
+    "typeID": "2810"
+   ,"check":false},
+    {
+    "typeName": "钓具",
+    "typeID": "2811"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "2812"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "肉类食品",
+    "typeID": "29",
+    "littleCategory": [
+    {
+    "typeName": "肉",
+    "typeID": "2901"
+   ,"check":false},
+    {
+    "typeName": "水产品",
+    "typeID": "2902"
+   ,"check":false},
+    {
+    "typeName": "罐头食品",
+    "typeID": "2903"
+   ,"check":false},
+    {
+    "typeName": "腌渍、干制水果",
+    "typeID": "2904"
+   ,"check":false},
+    {
+    "typeName": "腌制、干制蔬菜",
+    "typeID": "2905"
+   ,"check":false},
+    {
+    "typeName": "蛋品",
+    "typeID": "2906"
+   ,"check":false},
+    {
+    "typeName": "奶及乳制品",
+    "typeID": "2907"
+   ,"check":false},
+    {
+    "typeName": "食用油脂",
+    "typeID": "2908"
+   ,"check":false},
+    {
+    "typeName": "食用果胶",
+    "typeID": "2910"
+   ,"check":false},
+    {
+    "typeName": "加工过的坚果",
+    "typeID": "2911"
+   ,"check":false},
+    {
+    "typeName": "菌类干制品",
+    "typeID": "2912"
+   ,"check":false},
+    {
+    "typeName": "蛋白，豆腐制品",
+    "typeID": "2913"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "方便食品",
+    "typeID": "30",
+    "littleCategory": [
+    {
+    "typeName": "咖啡，可可",
+    "typeID": "3001"
+   ,"check":false},
+    {
+    "typeName": "茶、茶饮料",
+    "typeID": "3002"
+   ,"check":false},
+    {
+    "typeName": "糖",
+    "typeID": "3003"
+   ,"check":false},
+    {
+    "typeName": "糖果，南糖",
+    "typeID": "3004"
+   ,"check":false},
+    {
+    "typeName": "蜂蜜，蜂王浆",
+    "typeID": "3005"
+   ,"check":false},
+    {
+    "typeName": "面包，糕点",
+    "typeID": "3006"
+   ,"check":false},
+    {
+    "typeName": "方便食品",
+    "typeID": "3007"
+   ,"check":false},
+    {
+    "typeName": "米，面粉",
+    "typeID": "3008"
+   ,"check":false},
+    {
+    "typeName": "面条及米面制品",
+    "typeID": "3009"
+   ,"check":false},
+    {
+    "typeName": "谷物膨化食品",
+    "typeID": "3010"
+   ,"check":false},
+    {
+    "typeName": "豆粉，预制面筋",
+    "typeID": "3011"
+   ,"check":false},
+    {
+    "typeName": "食用淀粉",
+    "typeID": "3012"
+   ,"check":false},
+    {
+    "typeName": "食用冰制品",
+    "typeID": "3013"
+   ,"check":false},
+    {
+    "typeName": "食盐",
+    "typeID": "3014"
+   ,"check":false},
+    {
+    "typeName": "酱油，醋",
+    "typeID": "3015"
+   ,"check":false},
+    {
+    "typeName": "调味品",
+    "typeID": "3016"
+   ,"check":false},
+    {
+    "typeName": "酵母",
+    "typeID": "3017"
+   ,"check":false},
+    {
+    "typeName": "食用香精，香料",
+    "typeID": "3018"
+   ,"check":false},
+    {
+    "typeName": "单一商品",
+    "typeID": "3019"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "饲料种籽",
+    "typeID": "31",
+    "littleCategory": [
+    {
+    "typeName": "未加工的林业产品",
+    "typeID": "3101"
+   ,"check":false},
+    {
+    "typeName": "未加工的谷物",
+    "typeID": "3102"
+   ,"check":false},
+    {
+    "typeName": "花卉，园艺产品",
+    "typeID": "3103"
+   ,"check":false},
+    {
+    "typeName": "活生物",
+    "typeID": "3104"
+   ,"check":false},
+    {
+    "typeName": "未加工的水果及干果",
+    "typeID": "3105"
+   ,"check":false},
+    {
+    "typeName": "新鲜蔬菜",
+    "typeID": "3106"
+   ,"check":false},
+    {
+    "typeName": "种子",
+    "typeID": "3107"
+   ,"check":false},
+    {
+    "typeName": "动物饲料",
+    "typeID": "3108"
+   ,"check":false},
+    {
+    "typeName": "麦芽",
+    "typeID": "3109"
+   ,"check":false},
+    {
+    "typeName": "动物栖息用干草",
+    "typeID": "3110"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "啤酒饮料",
+    "typeID": "32",
+    "littleCategory": [
+    {
+    "typeName": "啤酒",
+    "typeID": "3201"
+   ,"check":false},
+    {
+    "typeName": "不含酒精饮料",
+    "typeID": "3202"
+   ,"check":false},
+    {
+    "typeName": "糖浆及其他制剂",
+    "typeID": "3203"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "含酒精酒",
+    "typeID": "33",
+    "littleCategory": [
+    {
+    "typeName": "含酒精的饮料",
+    "typeID": "3301"
+   ,"check":false}
+    ]
+    },
+
+
+
+    {
+    "typeName": "烟草烟具",
+    "typeID": "34",
+    "littleCategory": [
+    {
+    "typeName": "烟草及其制品",
+    "typeID": "3401"
+   ,"check":false},
+    {
+    "typeName": "烟具",
+    "typeID": "3402"
+   ,"check":false},
+    {
+    "typeName": "火柴",
+    "typeID": "3403"
+   ,"check":false},
+    {
+    "typeName": "吸烟用打火机",
+    "typeID": "3404"
+   ,"check":false},
+    {
+    "typeName": "胭纸，过滤嘴",
+    "typeID": "3405"
+   ,"check":false},
+    {
+    "typeName": "香烟用调味品",
+    "typeID": "3406"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "广告销售",
+    "typeID": "35",
+    "littleCategory": [
+    {
+    "typeName": "广告",
+    "typeID": "3501"
+   ,"check":false},
+    {
+    "typeName": "工商管理辅助业",
+    "typeID": "3502"
+   ,"check":false},
+    {
+    "typeName": "替他人推销",
+    "typeID": "3503"
+   ,"check":false},
+    {
+    "typeName": "人事管理辅助业 ",
+    "typeID": "3504"
+   ,"check":false},
+    {
+    "typeName": "商业企业迁移",
+    "typeID": "3505"
+   ,"check":false},
+    {
+    "typeName": "办公事务",
+    "typeID": "3506"
+   ,"check":false},
+    {
+    "typeName": "财会",
+    "typeID": "3507"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "3508"
+   ,"check":false},
+    {
+    "typeName": "医疗用品零售或批发服务",
+    "typeID": "3509"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+
+    {
+    "typeName": "金融物管",
+    "typeID": "36",
+    "littleCategory": [
+    {
+    "typeName": "保险",
+    "typeID": "3601"
+   ,"check":false},
+    {
+    "typeName": "金融事务",
+    "typeID": "3602"
+   ,"check":false},
+    {
+    "typeName": "珍品估价",
+    "typeID": "3603"
+   ,"check":false},
+    {
+    "typeName": "不动产事务",
+    "typeID": "3604"
+   ,"check":false},
+    {
+    "typeName": "经纪",
+    "typeID": "3605"
+   ,"check":false},
+    {
+    "typeName": "担保",
+    "typeID": "3606"
+   ,"check":false},
+    {
+    "typeName": "慈善募捐",
+    "typeID": "3607"
+   ,"check":false},
+    {
+    "typeName": "受托管理",
+    "typeID": "3608"
+   ,"check":false},
+    {
+    "typeName": "典当",
+    "typeID": "3609"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "建筑修理",
+    "typeID": "37",
+    "littleCategory": [
+    {
+    "typeName": "建设、维修信息服务",
+    "typeID": "3701"
+   ,"check":false},
+    {
+    "typeName": "建筑工程服务",
+    "typeID": "3702"
+   ,"check":false},
+    {
+    "typeName": "开采服务",
+    "typeID": "3703"
+   ,"check":false},
+    {
+    "typeName": "建筑物装饰修理服务",
+    "typeID": "3704"
+   ,"check":false},
+    {
+    "typeName": "供暖设备的安装与修理",
+    "typeID": "3705"
+   ,"check":false},
+    {
+    "typeName": "机械、电器设备的安装与修理",
+    "typeID": "3706"
+   ,"check":false},
+    {
+    "typeName": "陆地机械车辆维修",
+    "typeID": "3707"
+   ,"check":false},
+    {
+    "typeName": "飞机维修",
+    "typeID": "3708"
+   ,"check":false},
+    {
+    "typeName": "造船服务",
+    "typeID": "3709"
+   ,"check":false},
+    {
+    "typeName": "影视器材维修",
+    "typeID": "3710"
+   ,"check":false},
+    {
+    "typeName": "钟表修理",
+    "typeID": "3711"
+   ,"check":false},
+    {
+    "typeName": "保险装置的维修",
+    "typeID": "3712"
+   ,"check":false},
+    {
+    "typeName": "特殊处理服务",
+    "typeID": "3713"
+   ,"check":false},
+    {
+    "typeName": "轮胎维修服务",
+    "typeID": "3714"
+   ,"check":false},
+    {
+    "typeName": "家具的修复、保养",
+    "typeID": "3715"
+   ,"check":false},
+    {
+    "typeName": "衣服、皮革的包养服务",
+    "typeID": "3716"
+   ,"check":false},
+    {
+    "typeName": "灭虫，消毒服务",
+    "typeID": "3717"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "3718"
+   ,"check":false}
+    ]
+   ,"check":false},
+
+
+
+
+
+
+
+    {
+    "typeName": "通讯服务",
+    "typeID": "38",
+    "littleCategory": [
+    {
+    "typeName": "播放无线电或电视节目的服务",
+    "typeID": "3801"
+   ,"check":false},
+    {
+    "typeName": "通讯服务",
+    "typeID": "3802"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "运输储藏",
+    "typeID": "39",
+    "littleCategory": [
+    {
+    "typeName": "运输及运输前的包装服务",
+    "typeID": "3901"
+   ,"check":false},
+    {
+    "typeName": "水上运输及相关服务",
+    "typeID": "3902"
+   ,"check":false},
+    {
+    "typeName": "陆地运输",
+    "typeID": "3903"
+   ,"check":false},
+    {
+    "typeName": "空中运输",
+    "typeID": "3904"
+   ,"check":false},
+    {
+    "typeName": "其他运输及相关服务",
+    "typeID": "3905"
+   ,"check":false},
+    {
+    "typeName": "货物的贮藏",
+    "typeID": "3906"
+   ,"check":false},
+    {
+    "typeName": "潜水工具出租",
+    "typeID": "3907"
+   ,"check":false},
+    {
+    "typeName": "供水电气服务",
+    "typeID": "3908"
+   ,"check":false},
+    {
+    "typeName": "水闸管理服务",
+    "typeID": "3909"
+   ,"check":false},
+    {
+    "typeName": "投递服务",
+    "typeID": "3910"
+   ,"check":false},
+    {
+    "typeName": "旅行安排",
+    "typeID": "3911"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "3912"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "材料加工",
+    "typeID": "40",
+    "littleCategory": [
+    {
+    "typeName": "综合加工及提供信息服务",
+    "typeID": "4001"
+   ,"check":false},
+    {
+    "typeName": "金属材料处理或加工服务",
+    "typeID": "4002"
+   ,"check":false},
+    {
+    "typeName": "纺织品化学处理或加工服务",
+    "typeID": "4003"
+   ,"check":false},
+    {
+    "typeName": "木材加工服务",
+    "typeID": "4004"
+   ,"check":false},
+    {
+    "typeName": "纸张加工服务",
+    "typeID": "4005"
+   ,"check":false},
+    {
+    "typeName": "玻璃加工服务",
+    "typeID": "4006"
+   ,"check":false},
+    {
+    "typeName": "陶器加工服务",
+    "typeID": "4007"
+   ,"check":false},
+    {
+    "typeName": "食物、饮料加工服务",
+    "typeID": "4008"
+   ,"check":false},
+    {
+    "typeName": "剥制加工服务",
+    "typeID": "4009"
+   ,"check":false},
+    {
+    "typeName": "皮革、服装加工服务",
+    "typeID": "4010"
+   ,"check":false},
+    {
+    "typeName": "影像加工处理服务",
+    "typeID": "4011"
+   ,"check":false},
+    {
+    "typeName": "污物处理服务",
+    "typeID": "4012"
+   ,"check":false},
+    {
+    "typeName": "空气调节服务",
+    "typeID": "4013"
+   ,"check":false},
+    {
+    "typeName": "水处理服务",
+    "typeID": "4014"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "4015"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "教育娱乐",
+    "typeID": "41",
+    "littleCategory": [
+    {
+    "typeName": "教育",
+    "typeID": "4101"
+   ,"check":false},
+    {
+    "typeName": "组织和活动",
+    "typeID": "4102"
+   ,"check":false},
+    {
+    "typeName": "图书馆服务",
+    "typeID": "4103"
+   ,"check":false},
+    {
+    "typeName": "出版服务",
+    "typeID": "4104"
+   ,"check":false},
+    {
+    "typeName": "文体活动的服务",
+    "typeID": "4105"
+   ,"check":false},
+    {
+    "typeName": "驯兽",
+    "typeID": "4106"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "4107"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+
+    {
+    "typeName": "网站法律",
+    "typeID": "42",
+    "littleCategory": [
+    {
+    "typeName": "提供研究和开发服务",
+    "typeID": "4209"
+   ,"check":false},
+    {
+    "typeName": "提供地质调查、研究服务",
+    "typeID": "4210"
+   ,"check":false},
+    {
+    "typeName": "提供化学研究服务",
+    "typeID": "4211"
+   ,"check":false},
+    {
+    "typeName": "提供生物学研究服务",
+    "typeID": "4212"
+   ,"check":false},
+    {
+    "typeName": "提供气象情报服务",
+    "typeID": "4213"
+   ,"check":false},
+    {
+    "typeName": "提供测试服务",
+    "typeID": "4214"
+   ,"check":false},
+    {
+    "typeName": "外观设计服务",
+    "typeID": "4216"
+   ,"check":false},
+    {
+    "typeName": "建筑物的设计、咨询服务",
+    "typeID": "4217"
+   ,"check":false},
+    {
+    "typeName": "服装设计服务",
+    "typeID": "4218"
+   ,"check":false},
+    {
+    "typeName": "计算机编程及相关服务",
+    "typeID": "4220"
+   ,"check":false},
+    {
+    "typeName": "提供艺术品鉴定服务",
+    "typeID": "4224"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "4227"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "餐饮酒店",
+    "typeID": "43",
+    "littleCategory": [
+    {
+    "typeName": "提供餐饮，住宿服务",
+    "typeID": "4301"
+   ,"check":false},
+    {
+    "typeName": "提供房屋设施的服务",
+    "typeID": "4302"
+   ,"check":false},
+    {
+    "typeName": "养老院",
+    "typeID": "4303"
+   ,"check":false},
+    {
+    "typeName": "托儿服务",
+    "typeID": "4304"
+   ,"check":false},
+    {
+    "typeName": "为动物提供住宿",
+    "typeID": "4305"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "4306"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "医疗园艺",
+    "typeID": "44",
+    "littleCategory": [
+    {
+    "typeName": "医疗服务",
+    "typeID": "4401"
+   ,"check":false},
+    {
+    "typeName": "卫生、美容服务",
+    "typeID": "4402"
+   ,"check":false},
+    {
+    "typeName": "为动物提供服务",
+    "typeID": "4403"
+   ,"check":false},
+    {
+    "typeName": "农业、园艺服务",
+    "typeID": "4404"
+   ,"check":false},
+    {
+    "typeName": "单一服务",
+    "typeID": "4405"
+   ,"check":false}
+    ]
+    },
+
+
+
+
+    {
+    "typeName": "社会服务",
+    "typeID": "45",
+    "littleCategory": [
+    {
+    "typeName": "安全服务",
+    "typeID": "4501"
+   ,"check":false}
+    ]
+    }
+]
+
+
+
+
