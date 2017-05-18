@@ -195,7 +195,6 @@ export default class Search extends React.Component {
     onReceiveNotification = (event) =>{
         try {
 
-
             var alertContent;
             if (device.platform == "Android") {
                 alertContent = event.alert;
