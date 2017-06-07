@@ -584,6 +584,14 @@ export default class Search extends React.Component {
     //选择文件的回调
     fileSelected=(e)=>{
 
+
+        if(localStorage.getItem("username")==null){
+            Toast.info(loginMessage, 2);
+            hashHistory.push('/login');
+            return;
+
+        }
+
  console.log('在上传------------');
 
      //   Toast.loading('图片类型识别中', 0);
@@ -902,8 +910,9 @@ export default class Search extends React.Component {
 
 
 
+        //document.getElementById("choose").value='';
 
-
+        e.target.value='';
     }
 
     setPicUrl=(response_text)=>{
@@ -983,14 +992,24 @@ export default class Search extends React.Component {
 
 
                     <WhiteSpace size="sm" />
-                    <div style={{ textAlign:'center'}} onclick={this.popImg}>
+                    <div style={{ textAlign:'center'}} >
 
                         <img src={localStorage.getItem("picUrl_search")==null?require('./../img/zixun.jpg'):localStorage.getItem("picUrl_search")} id="getImageLocal" style={{display:'',  width: '240px',height: '240px'}}/>
                     </div>
 
 
-                    <input type="file" accept="image/*"   onChange={(e)=>this.fileSelected(e)} style={{display:'none'}} id="choose"  multiple/>
-                    <Button className="btn" icon="" onClick={this.uploadImg}>图片上传</Button>
+
+
+
+                    <input type="file" accept="image/jpeg,image/JPG,image/jpg,image/bmp,image/BMP,image/png,image/PNG" name="choose"  onChange={(e)=>this.fileSelected(e)} style={{display:'true' , width:' 250px'}} id="choose"  />
+                    <Button className="btn" icon="" onClick ={this.uploadImg}>图片上传</Button>
+
+                    <a className=" input-file input-fileup" href="javascript:;">
+                        选择文件<input size="100" type="file"
+                                     accept="image/jpeg,image/JPG,image/jpg,image/bmp,image/BMP,image/png,image/PNG"
+                                     onChange={(e)=>this.fileSelected(e)}
+                                     name="file" id="file"/>
+                    </a>
 
 
 
@@ -1052,6 +1071,10 @@ export default class Search extends React.Component {
                     <Button style={{  }} className="btn" type="primary" onClick={this.search}>搜索</Button>
 
     </div>
+
+
+
+
 
             </div>
 
