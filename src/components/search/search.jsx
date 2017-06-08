@@ -999,10 +999,6 @@ export default class Search extends React.Component {
 
 
 
-
-                    <input type="file" accept="image/jpeg,image/JPG,image/jpg,image/bmp,image/BMP,image/png,image/PNG" name="choose"  onChange={(e)=>this.fileSelected(e)} style={{display:'true' , width:' 250px'}} id="choose"  />
-                    <Button className="btn" icon="" onClick ={this.uploadImg}>图片上传</Button>
-
                     <div style={{margin:'0 auto' , textAlign:'center'}}>
                             <a className=" input-file input-fileup" href="javascript:;">
                             选择文件<input size="100" type="file"
